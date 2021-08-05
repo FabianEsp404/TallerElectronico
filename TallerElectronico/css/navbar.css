@@ -1,0 +1,8 @@
+.nav-link,.navbar-brand{
+    color: black;
+}
+.nav-item{
+    padding-left: 72px;
+    padding-right: 75px;
+    border: black 1px solid;  
+}
