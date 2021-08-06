@@ -1,0 +1,12 @@
+.content{
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+.imagenFondo{
+    background: url(../workshop-4281751_1280.jpg) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}
